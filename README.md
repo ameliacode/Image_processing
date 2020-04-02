@@ -1,1 +1,4 @@
-# Image_processing
+# Image processing
+Image processing lecture repository
+
+On going repo
